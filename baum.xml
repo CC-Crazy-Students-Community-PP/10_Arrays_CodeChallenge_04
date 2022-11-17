@@ -1,3 +1,11 @@
 <wurzel>
-    
+    <stamm>
+        <ast>
+            <zweig></zweig>
+            <zweig>
+                <blatt></blatt>
+            </zweig>
+        </ast>
+        <ast></ast>
+    </stamm>
 </wurzel>
