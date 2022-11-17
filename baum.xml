@@ -1,10 +1,10 @@
 <wurzel>
     <stamm>
         <ast>
-            <zweig></zweig>
             <zweig>
-                <blatt></blatt>
+                <blatt color="green"></blatt>
             </zweig>
+            <zweig></zweig>
         </ast>
         <ast></ast>
     </stamm>
